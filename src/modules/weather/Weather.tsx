@@ -3,9 +3,9 @@ import { useState, useEffect } from "react";
 import { Container } from "./weather.style";
 
 const Bookmarks = () => {
-  const [lat, setLat] = useState(null);
-  const [long, setLong] = useState(null);
-  const [data, setData] = useState(null);
+  const [lat, setLat] = useState<Number | null>(null);
+  const [long, setLong] = useState<Number | null>(null);
+  const [data, setData] = useState<null | any>(null);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -24,7 +24,7 @@ const Bookmarks = () => {
   }, [lat, long]);
 
   return (
-    <Container>
+    <Container expanded={false}>
       <>
         <div className="tray">
           <p className="tray__empty-text" title="Weather Report ">
