@@ -1,12 +1,12 @@
-# [kingscreen](https://kingscreen.netlify.app)
+# [kingScreen](https://kingscreen.netlify.app)
 
 You new homepage to improve your productivity Today kingscreen is live with its first version v1.0.0 beta.
 
-![kingscreen Homepage](https://raw.githubusercontent.com/satyaarthchhabra/media/master/images/homeScreen.png?raw=true)
-![kingscreen Homepage](https://raw.githubusercontent.com/satyaarthchhabra/media/master/images/homeScreen2.png?raw=true)
-![kingscreen Homepage](https://raw.githubusercontent.com/satyaarthchhabra/media/master/images/homeScreen3.png?raw=true)
+![kingScreen Homepage](https://raw.githubusercontent.com/satyaarthchhabra/media/master/images/homeScreen.png?raw=true)
+![kingScreen Homepage](https://raw.githubusercontent.com/satyaarthchhabra/media/master/images/homeScreen2.png?raw=true)
+![kingScreen Homepage](https://raw.githubusercontent.com/satyaarthchhabra/media/master/images/homeScreen3.png?raw=true)
 
-## kingscreen v1.0.0 beta features
+## kingScreen v1.0.0 beta features
 
 - Bookmarks list: Save your bookmarks in a better way. Create a collection of all your important links. Jump faster without missing or getting lost in some confusing UI.
 - Google search / url input: Feel like home! You can continue searching on Google or can directly jump to a website.
